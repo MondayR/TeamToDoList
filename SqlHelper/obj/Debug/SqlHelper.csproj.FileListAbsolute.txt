@@ -1,0 +1,10 @@
+E:\YHT\Projects\TeamToDos\SqlHelper\bin\Debug\SqlHelper.dll
+E:\YHT\Projects\TeamToDos\SqlHelper\bin\Debug\SqlHelper.pdb
+E:\YHT\Projects\TeamToDos\SqlHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\YHT\Projects\TeamToDos\SqlHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\YHT\Projects\TeamToDos\SqlHelper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\YHT\Projects\TeamToDos\SqlHelper\bin\Debug\Microsoft.Practices.Unity.dll
+E:\YHT\Projects\TeamToDos\SqlHelper\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\YHT\Projects\TeamToDos\SqlHelper\obj\Debug\SqlHelper.csprojResolveAssemblyReference.cache
+E:\YHT\Projects\TeamToDos\SqlHelper\obj\Debug\SqlHelper.dll
+E:\YHT\Projects\TeamToDos\SqlHelper\obj\Debug\SqlHelper.pdb

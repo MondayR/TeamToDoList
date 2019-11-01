@@ -1,0 +1,11 @@
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\TeamToDosControllers.dll
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\TeamToDosControllers.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\TeamToDosDAL.dll
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\TeamToDosEntity.dll
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\Common.dll
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\TeamToDosDAL.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\TeamToDosEntity.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\bin\Release\Common.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\obj\Release\TeamToDosControllers.csprojResolveAssemblyReference.cache
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\obj\Release\TeamToDosControllers.dll
+E:\YHT\Projects\TeamToDos\TeamToDosControllers\obj\Release\TeamToDosControllers.pdb

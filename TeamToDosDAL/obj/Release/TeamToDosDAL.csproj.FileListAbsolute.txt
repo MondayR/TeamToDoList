@@ -1,0 +1,9 @@
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\bin\Release\TeamToDosDAL.dll
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\bin\Release\TeamToDosDAL.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\bin\Release\Common.dll
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\bin\Release\TeamToDosEntity.dll
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\bin\Release\Common.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\bin\Release\TeamToDosEntity.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\obj\Release\TeamToDosDAL.csprojResolveAssemblyReference.cache
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\obj\Release\TeamToDosDAL.dll
+E:\YHT\Projects\TeamToDos\TeamToDosDAL\obj\Release\TeamToDosDAL.pdb

@@ -1,0 +1,5 @@
+E:\YHT\Projects\TeamToDos\TeamToDosEntity\bin\Release\TeamToDosEntity.dll
+E:\YHT\Projects\TeamToDos\TeamToDosEntity\bin\Release\TeamToDosEntity.pdb
+E:\YHT\Projects\TeamToDos\TeamToDosEntity\obj\Release\TeamToDosEntity.csprojResolveAssemblyReference.cache
+E:\YHT\Projects\TeamToDos\TeamToDosEntity\obj\Release\TeamToDosEntity.dll
+E:\YHT\Projects\TeamToDos\TeamToDosEntity\obj\Release\TeamToDosEntity.pdb
